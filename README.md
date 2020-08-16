@@ -1,3 +1,3 @@
 ## Welcome to aelphias blog
 
-I'. working on push_swap project.
+I'm working on push_swap project.
