@@ -5,5 +5,7 @@
 
 Языки программирования C, Python
 
-telegram": aelphias
+telegram: aelphias
+
+
 igormitchell@ya.ru
