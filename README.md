@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![userpic](/img/userpic.jpeg "user")
+<img src="/img/userpic.jpeg" width="300" height="200" />
 
 
 DevOps engineer with 3 years of experience in managing CI/CD.
