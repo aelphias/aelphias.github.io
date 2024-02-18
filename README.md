@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="/img/userpic.jpeg" width="200" height="300" />
+<img src="/img/userpic.jpeg" width="290" height="300" />
 
 
 DevOps engineer with 3 years of experience in managing CI/CD.
