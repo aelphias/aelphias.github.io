@@ -12,6 +12,19 @@ I design, build CI/CD pipelines.
 - 👯 I’m looking to collaborate on managing ArgoCD k8s project
 - 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me)
 
+### Skills:
+- Kubernetes(openshift)
+- Python
+- Docker
+- Jenkins
+- PostgreSQL
+- Elasticsearch
+- Linux
+- Git
+- Kafka
+- Atlassian Jira
+- REST
+
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I design, build CI/CD pipelines using gitlab inhouse solution. 
