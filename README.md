@@ -10,7 +10,7 @@ I design, build CI/CD pipelines.
 - 🥷 I have ADHD
 - 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2)
 - 👯 I’m looking to collaborate on managing ArgoCD k8s project
-- 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@protonmail.com](mailto:igor.mitchell@protonmail.com)
+- 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me)
 
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
