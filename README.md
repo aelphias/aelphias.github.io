@@ -1,6 +1,5 @@
 ### Hi there 👋
-![userpic](/img/userpic.jpeg "user")
-<img src="/img/userpic.jpeg" width="300" height="200" />
+<img src="/img/userpic.jpeg" width="200" height="300" />
 
 
 DevOps engineer with 3 years of experience in managing CI/CD.
