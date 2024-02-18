@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+DevOps engineer with 3 years of experience in managing CI/CD.
+
 I design, build CI/CD pipelines. 
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s.
 - 🥷 I have ADHD
