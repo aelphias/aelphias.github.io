@@ -2,7 +2,7 @@
 <img src="/img/userpic.jpeg" width="290" height="300" />
 
 
-I am DevOps engineer with 3 years of experience in managing CI/CD.
+I’m DevOps engineer with 3 years of experience in managing CI/CD.
 
 Based in Moscow, Russia - looking forward to work in Berlin.
 
