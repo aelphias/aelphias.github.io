@@ -2,6 +2,7 @@
 
 
 DevOps engineer with 3 years of experience in managing CI/CD.
+
 Based in Moscow, Russia - looking forward to work in Berlin.
 
 I design, build CI/CD pipelines. 
