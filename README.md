@@ -9,7 +9,7 @@ Based in Moscow, Russia - looking forward to work in Berlin.
 
 I design, build CI/CD pipelines. 
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s.
-- 🥷 I have ADHD
+- 🥷 I have a pug
 - 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2)
 - 👯 I’m looking to collaborate on managing ArgoCD k8s project
 - 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me)
