@@ -7,15 +7,16 @@ I’m DevOps engineer with 3 years of experience in managing CI/CD.
 
 Based in Moscow, Russia - looking forward to work outside of Russia.
 
-I design, build CI/CD pipelines. 
+I support CI/CD jenkins pipelines. 
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s.
-- 🥷 I have a pug
-- 🔭 I’m doing course on [k8s](https://lk.rebrainme.com/kubernetesv2)
-- 👯 I’m looking to collaborate on managing ArgoCD k8s project
+- 🔭 I’m currently learning for rhcsa certification with a book [Red Hat RHCSA 9 Cert Guide: EX200](https://www.barnesandnoble.com/w/red-hat-rhcsa-9-cert-guide-sander-van-vugt/1142518035)
+by  Sander van Vugt 
 - 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me)
+- ⚡ Fun fact: I have a pug 🐕
 
 ### Skills:
 - Kubernetes(openshift)
+- Bash
 - Python
 - Docker
 - Jenkins
