@@ -14,8 +14,10 @@ by  Sander van Vugt
 
 ### Skills:
 - Kubernetes(openshift)
+- Prometheus/Grafana
 - Bash
 - Python
+- go
 - Docker
 - Jenkins
 - PostgreSQL
@@ -25,6 +27,7 @@ by  Sander van Vugt
 - Kafka
 - Atlassian Jira
 - REST
+- SSL
 
 
 
