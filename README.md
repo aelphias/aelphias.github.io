@@ -9,7 +9,7 @@ I support CI/CD jenkins pipelines.
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s.
 - 🔭 I’m currently learning for rhcsa certification with a book [Red Hat RHCSA 9 Cert Guide: EX200](https://www.barnesandnoble.com/w/red-hat-rhcsa-9-cert-guide-sander-van-vugt/1142518035)
 by  Sander van Vugt 
-- 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me) [linkedin](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
+- 📫 How to reach me: [linkedin](www.linkedin.com/in/igormitchell),  [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me),  [telegram](https://t.me/igor_mitchell) 
 - ⚡ Fun fact: I have a pug 🐕
 
 ### Skills:
@@ -28,9 +28,9 @@ by  Sander van Vugt
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="igor-mitchell-5a69b6170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/igor-mitchell-5a69b6170?trk=profile-badge">Igor Mitchell</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="igor-mitchell-5a69b6170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/igor-mitchell-5a69b6170?trk=profile-badge"></a></div>
               
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I design, build CI/CD pipelines using gitlab inhouse solution. 
