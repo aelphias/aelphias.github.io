@@ -9,7 +9,7 @@ I support CI/CD jenkins pipelines.
 - 🌱 In 2024 I'm acquiring experience and continue to explore k8s.
 - 🔭 I’m currently learning for rhcsa certification with a book [Red Hat RHCSA 9 Cert Guide: EX200](https://www.barnesandnoble.com/w/red-hat-rhcsa-9-cert-guide-sander-van-vugt/1142518035)
 by  Sander van Vugt 
-- 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me)
+- 📫 How to reach me: [t.me/igor_mitchell](https://t.me/igor_mitchell) or [igor.mitchell@proton.me](mailto:igor.mitchell@proton.me) [linkedin](<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>)
 - ⚡ Fun fact: I have a pug 🐕
 
 ### Skills:
@@ -27,7 +27,7 @@ by  Sander van Vugt
 - REST
 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="igor-mitchell-5a69b6170" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ru.linkedin.com/in/igor-mitchell-5a69b6170?trk=profile-badge">Igor Mitchell</a></div>
               
 
