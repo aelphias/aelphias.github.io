@@ -1,5 +1,3 @@
-# Welcome to My Page!
-
 <img src="/img/userpic.jpeg" width="290" height="300" />
 
 
