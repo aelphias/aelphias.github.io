@@ -1,45 +1,131 @@
-<img src="/img/userpic.jpeg" width="290" height="300" />
+**Igor Mitchell**  
+**Male, 34 years old**  
+**Date of Birth:** April 6, 1990
 
-[Download CV in russian](https://igormitchell.ru/cv)
-I’m DevOps engineer with 3 years of experience in managing CI/CD.
-Based in Moscow, Russia - looking forward to work outside of Russia.
+**Contact Information:**
+- Phone: +7 (977) 7104575 (Preferred)  
+- Telegram: [@Igor_Mitchell](https://t.me/Igor_Mitchell) (Preferred)  
+- Email: igor.mitchell@proton.me  
+- LinkedIn: [linkedin.com/in/igormitchell](https://www.linkedin.com/in/igormitchell/)
 
-During my current role as a DevOps engineer I helped product teams to accerlate time to marking
-managing CI/CD
+**Location:** Moscow, Russia  
+**Citizenship:** Russian Federation (Work authorization: Russia)  
+**Willing to relocate and travel.**
 
-- 🔭 I’m getting ready to RHCSA 9
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/igormitchell),  [email✉️](mailto:igor.mitchell@proton.me),  [telegram](https://t.me/igor_mitchell) 
-- ⚡ Fun fact: I have a pug 🐕
+---
 
-### Skills:
-- Kubernetes(openshift)
-- Prometheus/Grafana
-- Bash
-- Python
-- go
-- Docker
-- Jenkins
-- PostgreSQL
-- Elasticsearch
-- Linux
-- Git
-- Kafka
-- Atlassian Jira
-- REST
-- SSL
-              
+### **Objective**
+To secure a challenging position as a **Site Reliability Engineer** in the United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
 
-<!--
-**aelphias/aelphias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I design, build CI/CD pipelines using gitlab inhouse solution. 
-Here are some ideas to get you started:
+### **Professional Specializations**
+- **DevOps Engineer**  
+- **Network Engineer**  
+- **System Administrator**  
+- **Information Security Specialist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Employment Preferences**
+- **Employment Type:** Full-time, Contract  
+- **Work Schedule:** Remote or On-site  
+- **Commute:** No restrictions
+
+---
+
+### **Professional Experience**
+
+#### **Innoview LLC**  
+*December 2023 – Present (1 year 2 months)*  
+**Position:** DevOps Engineer
+
+- Maintained test environments on Kubernetes clusters.
+- Deployed and configured new automated systems in clusters.
+- Set up and maintained monitoring systems.
+- Troubleshot issues and implemented automation solutions.
+
+**Technology Stack:**
+- HashiCorp Vault, OpenShift (Kubernetes), Istio Service Mesh
+- Helm, Jenkins, Java, Bash
+- RHEL and other Linux distributions
+- PostgreSQL, Kafka
+- Bitbucket, Confluence, Jira
+
+---
+
+#### **Promsvyazbank (PSB)**  
+*December 2022 – December 2023 (1 year 1 month)*  
+**Position:** DevOps Engineer
+
+- Managed and maintained CI/CD pipelines (GitLab CI).
+- Automated system configurations using Ansible.
+- Deployed services on Linux hosts.
+- Automated tasks using Python and Bash scripting.
+- Performed troubleshooting and issue resolution.
+
+---
+
+#### **Sberbank**  
+*January 2021 – November 2022 (1 year 11 months)*  
+**Position:** Python Developer / DevOps Engineer
+
+- Developed microservices using Flask and REST APIs.
+- Refactored Python code and improved system performance.
+- Set up deployment pipelines using GitLab CI.
+- Worked with OpenSearch, AWS, and Azure cloud environments.
+
+**Key Tasks:**
+- Configured Kafka, Redis, PostgreSQL, and ELK stacks with Docker-Compose.
+- Integrated Telegram notifications for news monitoring.
+- Parsed, cleaned, and loaded data into databases.
+
+---
+
+### **Education**
+
+#### **21 School – Programming Academy**  
+*Graduated: 2021*  
+**Program:** Software Development (Partnered with Sberbank)
+
+#### **Peoples' Friendship University of Russia**  
+*Graduated: 2016*  
+**Faculty:** Linguistics (English and French Languages)
+
+#### **Management Development Institute of Singapore (MDIS)**  
+*Graduated: 2015*  
+**Faculty:** Software Development
+
+---
+
+### **Certifications**
+
+- **English Proficiency Certificate (EF)**: C2 Proficient  
+  *Issued: 2020 (Renewed 2022)*
+
+---
+
+### **Technical Skills**
+- **DevOps Tools:** Kubernetes, OpenShift, Istio, Helm, Jenkins, GitLab CI/CD, Ansible
+- **Programming Languages:** Python, Bash
+- **Monitoring Tools:** Prometheus, Grafana, ELK
+- **Databases:** PostgreSQL, Kafka, Redis
+- **Version Control:** Git, Bitbucket
+- **Automation:** Process automation using Python and Bash scripting
+- **Cloud Platforms:** AWS, Azure
+- **Operating Systems:** Linux (RHEL, Ubuntu, etc.)
+
+---
+
+### **Languages**
+- **Russian:** Native  
+- **English:** C2 – Proficient  
+- **French:** B2 – Upper Intermediate
+
+---
+
+### **Additional Information**
+- **Driver's License:** Category B
+- **Military Status:** Exempt (Military ID available)
+- Transitioned to IT in 2019 from a background in teaching English and translations. Completed a comprehensive programming course at Sberbank's 21 School.
+- **Hobbies:** Running, reading, and staying updated with new technologies.
+
+**Preferred Communication:** Telegram  
+[@Igor_Mitchell](https://t.me/Igor_Mitchell)
+
