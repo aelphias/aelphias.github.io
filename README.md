@@ -1,4 +1,4 @@
-**Igor Mitchell, SRE**  
+**SRE**  
 **Male, 34 years old**  
 
 **Contact Information:**
