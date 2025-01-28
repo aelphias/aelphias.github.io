@@ -1,6 +1,5 @@
-**Igor Mitchell**  
+**Igor Mitchell, SRE**  
 **Male, 34 years old**  
-**Date of Birth:** April 6, 1990
 
 **Contact Information:**
 - Phone: +7 (977) 7104575 (Preferred)  
