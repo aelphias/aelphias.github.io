@@ -14,7 +14,7 @@
 ---
 
 ### **Objective**
-To secure a challenging position as a **DevOps Engineer** in the EU or United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
+To secure a challenging position as a **DevOps Engineer** in the EU or the United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
 
 ### **Professional Specializations**
 - **DevOps Engineer**  
