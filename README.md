@@ -4,7 +4,7 @@
 **Contact Information:**
 - Phone: +7 (977) 7104575 (Preferred)  
 - Telegram: [@Igor_Mitchell](https://t.me/Igor_Mitchell) (Preferred)  
-- Email: igor.mitchell@proton.me  
+- Email: [igormitchell@pm.me](mailto:igormitchell@pm.me) 
 - LinkedIn: [linkedin.com/in/igormitchell](https://www.linkedin.com/in/igormitchell/)
 
 **Location:** Moscow, Russia  
