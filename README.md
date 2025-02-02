@@ -1,4 +1,4 @@
-**Site Reliability Enginner**  
+**DevOps**  
 **Male, 34 years old**  
 
 **Contact Information:**
@@ -14,7 +14,7 @@
 ---
 
 ### **Objective**
-To secure a challenging position as a **Site Reliability Engineer** in the United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
+To secure a challenging position as a **DevOps Engineer** in the United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
 
 ### **Professional Specializations**
 - **DevOps Engineer**  
