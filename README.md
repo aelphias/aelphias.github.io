@@ -1,13 +1,13 @@
 **DevOps**  
-**Male, 34 years old**  
+**Male, 35 years old**  
 
 **Contact Information:**
-- Phone: +7 (977) 7104575 (Preferred)  
+- Phone: +7 (977) 7104575
 - Telegram: [@Igor_Mitchell](https://t.me/Igor_Mitchell) (Preferred)  
 - Email: [igormitchell@pm.me](mailto:igormitchell@pm.me) 
 - LinkedIn: [linkedin.com/in/igormitchell](https://www.linkedin.com/in/igormitchell/)
 
-**Location:** Moscow, Russia  
+**Location:** Sochi, Russia  
 **Citizenship:** Russian Federation (Work authorization: Russia)  
 **Willing to relocate and travel.**
 
@@ -31,8 +31,8 @@ To secure a challenging position as a **DevOps Engineer** in the EU or the Unite
 
 ### **Professional Experience**
 
-#### **Innoview LLC**  
-*December 2023 – Present (1 year 2 months)*  
+#### **ActiveSoft LLC**  
+*December 2023 – Present (1 year 7 months)*  
 **Position:** DevOps Engineer
 
 - Maintained test environments on Kubernetes clusters.
