@@ -13,14 +13,8 @@
 
 ---
 
-### **Objective**
-To secure a challenging position as a **DevOps Engineer** in the EU or the United States, leveraging my expertise in DevOps, system administration, and network engineering to deliver reliable and scalable solutions.
-
 ### **Professional Specializations**
 - **DevOps Engineer**  
-- **Network Engineer**  
-- **System Administrator**  
-- **Information Security Specialist**
 
 ### **Employment Preferences**
 - **Employment Type:** Full-time, Contract  
@@ -37,7 +31,7 @@ To secure a challenging position as a **DevOps Engineer** in the EU or the Unite
 
 - Maintained test environments on Kubernetes clusters.
 - Deployed and configured new automated systems in clusters.
-- Set up and maintained monitoring systems.
+- Set up and maintained monitoring systems for staging environments.
 - Troubleshot issues and implemented automation solutions.
 
 **Technology Stack:**
