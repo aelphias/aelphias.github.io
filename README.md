@@ -36,7 +36,7 @@
 
 **Technology Stack:**
 - HashiCorp Vault, OpenShift (Kubernetes), Istio Service Mesh
-- Helm, Jenkins, Java, Bash
+- Helm, Jenkins,Teamcity, Java, Bash
 - RHEL and other Linux distributions
 - PostgreSQL, Kafka
 - Bitbucket, Confluence, Jira
