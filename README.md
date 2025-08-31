@@ -7,7 +7,7 @@
 - Email: [igormitchell@pm.me](mailto:igormitchell@pm.me) 
 - LinkedIn: [linkedin.com/in/igormitchell](https://www.linkedin.com/in/igormitchell/)
 
-**Location:** Sochi, Russia  
+**Location:** Moscow, Russia  
 **Citizenship:** Russian Federation (Work authorization: Russia)  
 **Willing to relocate and travel.**
 
