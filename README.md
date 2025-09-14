@@ -19,7 +19,7 @@ DevOps Engineer with 5+ years of experience in CI/CD automation, Kubernetes admi
 ## Core Competencies
 - **DevOps & Cloud:** Kubernetes, OpenShift, Istio, AWS, Azure  
 - **CI/CD & Automation:** GitLab CI/CD, Jenkins, TeamCity, Ansible, Helm, GitOps  
-- **Programming & Scripting:** Python, Bash, Java  
+- **Programming & Scripting:** Python, Bash  
 - **Monitoring & Logging:** Prometheus, Grafana, VictoriaMetrics, ELK Stack  
 - **Databases & Messaging:** PostgreSQL, Kafka, Redis  
 - **Version Control & Collaboration:** Git, GitLab, Bitbucket, Confluence, Jira  
