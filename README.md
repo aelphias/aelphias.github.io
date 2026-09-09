@@ -12,7 +12,7 @@ Citizenship: Russian Federation
 ---
 
 ## Professional Summary
-DevOps Engineer with 5+ years of experience in CI/CD automation, Kubernetes administration, and cloud infrastructure (AWS, Azure). Skilled in Python, Bash, Ansible, and modern DevOps tools. Currently working at **Sberbank’s AI Agents team** to support scalable services for advanced software systems. Strong background in pipeline optimization, monitoring, GitOps, and cross-functional collaboration. Transitioned to IT from linguistics, bringing strong communication skills and adaptability.
+DevOps Engineer with 5+ years of experience in CI/CD automation, Kubernetes administration, and cloud infrastructure (AWS, Azure). Skilled in Python, Bash, Ansible, and modern DevOps tools. Currently working at **image/visual models inference team** to support scalable services for advanced software systems. Strong background in pipeline optimization, monitoring, GitOps, and cross-functional collaboration. Transitioned to IT from linguistics, bringing strong communication skills and adaptability.
 
 ---
 
